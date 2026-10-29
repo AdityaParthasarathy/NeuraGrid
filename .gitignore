@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+.vercel/
+.env
+.env.*
+!.env.example
+*.log
+unpacked_check/
+~$*
+.claude/settings.local.json
